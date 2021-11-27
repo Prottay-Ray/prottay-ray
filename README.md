@@ -9,11 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Java, Spring Boot, AWS, SQL, and DSA**
 
-- 📫 How to reach me **prottayray@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 Reach me out at **prottayray@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
