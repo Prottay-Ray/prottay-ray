@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prottay Ray</h1>
-<h3 align="center">I am a practical and detail-oriented full-stack web developer from India, who has a keen interest in solving unique problems with the help of data structures and algorithms. I enjoy creating user-friendly applications and have a knack in backend development. I am self-motivated, team player, and ardent in solving diverse problems across any given environment.</h3>
+<h3 align="center">I am a practical and detail-oriented full-stack java developer from India, who has a keen interest in solving unique problems with the help of data structures and algorithms. I enjoy creating user-friendly applications and have a knack in backend development. I am self-motivated, team player, and ardent in solving diverse problems across any given environment.</h3>
 
-- 🌱 I’m currently learning **Java, Spring Boot, AWS, SQL, and DSA**
-
-- 👨‍💻 All of my projects are available at [https://prottay.netlify.app/](https://prottay.netlify.app/)
-
-- 📝 I regularly write articles on [https://prottayray.medium.com/](https://prottayray.medium.com/)
-
-- 💬 Ask me about **HTML, CSS, JS, Java, Spring Boot, AWS, SQL, and DSA**
+- 🌱 I’m skilled in **Java, Spring Boot, MySQL, Redis, Kafka, Elasticsearch, MongoDB, AWS, and DSA**
 
 - 📫 Reach me out at **prottayray@gmail.com**
 
